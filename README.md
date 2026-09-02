@@ -42,7 +42,7 @@ BuyBooks is a full-stack book selling application developed using **ASP.NET Core
 - **Auth:** ASP.NET Core Identity, Google authentication.
 - **Deployment:** Docker for containerization and IIS local server.
 
-## Screenshots
+## User Manual
 
 **Figure 1:** The first view of BuyBooks navigates the customer through the products we are offering.
 ![Figure 1](images/image1.jpeg)
