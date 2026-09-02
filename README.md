@@ -66,52 +66,52 @@ BuyBooks is a full-stack book selling application developed using **ASP.NET Core
 ![Figure 7](images/images/image7.jpeg)
 
 **Figure 8:** Email editing partial view.
-![Figure 8](images/image8.jpeg)
+![Figure 8](images/images/image8.jpeg)
 
 **Figure 9:** Password changing tab.
-![Figure 9](images/image9.jpeg)
+![Figure 9](images/images/image9.jpeg)
 
 **Figure 10:** External login tab.
-![Figure 10](images/image10.jpeg)
+![Figure 10](images/images/image10.jpeg)
 
 **Figure 11:** Personal data download and account deletion tab.
-![Figure 11](images/image11.jpeg)
+![Figure 11](images/images/image11.jpeg)
 
 **Figure 12:** To add a product to cart, click on details.
-![Figure 12](images/image12.jpeg)
+![Figure 12](images/images/image12.jpeg)
 
 **Figure 13:** The details view appears.
-![Figure 13](images/image13.jpeg)
+![Figure 13](images/images/image13.jpeg)
 
 **Figure 14:** The count can be customized.
-![Figure 14](images/image14.jpeg)
+![Figure 14](images/images/image14.jpeg)
 
 **Figure 15:** On clicking "Add to cart", the book is added to the cart.
-![Figure 15](images/image15.jpeg)
+![Figure 15](images/images/image15.jpeg)
 
 **Figure 16:** Click on the cart icon in the top-left corner to view the cart.
-![Figure 16](images/image16.jpeg)
+![Figure 16](images/images/image16.jpeg)
 
 **Figure 17:** Products in the cart appear.
-![Figure 17](images/image17.jpeg)
+![Figure 17](images/images/image17.jpeg)
 
 **Figure 18:** The count can be increased or decreased here, and the product can be removed from the cart.
-![Figure 18](images/image18.jpeg)
+![Figure 18](images/images/image18.jpeg)
 
 **Figure 19:** On clicking the summary button, the summary of our order appears.
-![Figure 19](images/image19.jpeg)
+![Figure 19](images/images/image19.jpeg)
 
 **Figure 20:** On clicking "Place order" in the order summary, the payment view appears.
-![Figure 20](images/image20.jpeg)
+![Figure 20](images/images/image20.jpeg)
 
 **Figure 21:** Provide email and then choose payment option.
-![Figure 21](images/image21.jpeg)
+![Figure 21](images/images/image21.jpeg)
 
 **Figure 22:** A dummy QR appears which contains an option to simulate scan.
-![Figure 22](images/image22.jpeg)
+![Figure 22](images/images/image22.jpeg)
 
 **Figure 23:** The payment is authorized, as it is a test payment.
-![Figure 23](images/image23.jpeg)
+![Figure 23](images/images/image23.jpeg)
 
 **Figure 24:** The order is placed successfully!
 ![Figure 24](images/image24.jpeg)
