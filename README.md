@@ -2,14 +2,7 @@
 
 BuyBooks is a full-stack book selling application developed using **ASP.NET Core MVC (.NET 8)**. It provides a platform for customers to browse and buy their favorite books and novels.
 
-**GitHub:** https://github.com/mujaddadahmed/se22-web-project-bsef22m024.git
-
-## Project Info
-
-- **Course Title:** Web Engineering
-- **Course Instructor:** Dr. Shuja-ur-Rehman Baig
-- **Student Name:** Mujaddad Ahmed
-- **Roll Number:** BSEF22M024
+**GitHub:** [https://github.com/mujaddadahmed/Buy_Books]
 
 ## Core Functionalities and Technologies
 
