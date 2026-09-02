@@ -45,25 +45,25 @@ BuyBooks is a full-stack book selling application developed using **ASP.NET Core
 ## User Manual
 
 **Figure 1:** The first view of BuyBooks navigates the customer through the products we are offering.
-![Figure 1](images/image1.jpeg)
+![Figure 1](images/images/image1.jpeg)
 
 **Figure 2:** Search bar is provided for filtering search results on the basis of the search term.
-![Figure 2](images/image2.jpeg)
+![Figure 2](images/images/image2.jpeg)
 
 **Figure 3:** The Register page.
-![Figure 3](images/image3.jpeg)
+![Figure 3](images/images/image3.jpeg)
 
 **Figure 4:** Populating all the required fields.
-![Figure 4](images/image4.jpeg)
+![Figure 4](images/images/image4.jpeg)
 
 **Figure 5:** Registration successfully done!
-![Figure 5](images/image5.jpeg)
+![Figure 5](images/images/image5.jpeg)
 
 **Figure 6:** On clicking "Hello \<username\>".
-![Figure 6](images/image6.jpeg)
+![Figure 6](images/images/image6.jpeg)
 
 **Figure 7:** The profile options and information appear.
-![Figure 7](images/image7.jpeg)
+![Figure 7](images/images/image7.jpeg)
 
 **Figure 8:** Email editing partial view.
 ![Figure 8](images/image8.jpeg)
